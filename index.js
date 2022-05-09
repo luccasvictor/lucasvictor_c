@@ -13,7 +13,7 @@ var options =
 	identity: 
 	{
 		username: "lucasvictor_c",
-		password: "oauth:xv8nmc6t36vj2jo2ux9myn42gtgavp",  
+		password: "oauth:886ypooxydv71mj8uuu8yl3f2e12pz",  
 	},
 	channels: ['#gaules', '#cachorro1337c', '#saullo', '#skipnho', '#umbrinquedo', '#skipnholoja', '#velhovamp1', '#zanfas_cenegal', '#csrfps', '#gabepeixe', '#tiburciand0', '#brnwowzk1',] //ADICIONA OS CANAIS AQ COM '#NOME'
 };
